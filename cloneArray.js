@@ -1,5 +1,5 @@
-function clone(array){
+function cloneArray(array){
     return [...array]
     }
     
-    export default clone
+    export default cloneArray
