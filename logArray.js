@@ -1,3 +1,5 @@
 function logArray(array){
-console.log(...array)
+return [...array]
 }
+
+module.exports = logArray
